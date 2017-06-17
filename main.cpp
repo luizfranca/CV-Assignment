@@ -6,15 +6,16 @@
  */
 
 #include <iostream>
-#include "opencv2/opencv.hpp"
+#include "question01.h"
 
 using namespace std;
-using namespace cv;
 
 int main() {
 
+	cout << "First assignment" << endl;
 
-	cout << "template" << endl;
+	question01();
+
 
 	return 0;
 }
